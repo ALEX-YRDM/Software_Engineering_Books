@@ -18,7 +18,7 @@
 - Principles_of_Computer_Composition 计算机组成
 - Compilation principle 编译原理
 - Math 数学
-- Other  其他非常经典有名的书籍
+- Others  其他非常经典有名的书籍
 
 由于阿里云盘每日分享存在上限(5个),因此缓慢更新
 
