@@ -1,0 +1,32 @@
+# Software Engineering Books
+
+> 该仓库存放一些 软件工程专业相关的一些书籍（本人觉得重要的)，希望能对那些对计算机专业感兴趣的人，目前正在学习计算机或者软件工程专业的人，以及有开发经验的软件工程师提供一些高质量的书籍。希望大家能一起维护这个仓库,提PR,感激不尽!!!
+>
+> 目前的项目结构为：
+
+- Software_Engineering_Related  软件工程相关概念的书籍，软件工程概念，软件项目管理等等
+- Program_Language 编程语言
+  - C/C++
+  - Java
+  - Python
+  - ...
+- Database 数据库
+- Operating_System 操作系统
+- Data_structure&algorithm 数据结构与算法
+- Software_Architecture 软件体系结构
+- Computer_Network 计算机网络
+- Principles_of_Computer_Composition 计算机组成
+- Compilation principle 编译原理
+- Math 数学
+- Other  其他非常经典有名的书籍
+
+由于阿里云盘每日分享存在上限(5个),因此缓慢更新
+
+欢迎提PR,如有其他书籍推荐可在issues中提
+
+## 获取书籍的方式
+
+- Zlibrary  世界上最大的电子书图书馆
+- 每个目录中的readme.md中的阿里云盘下载链接，永久分享
+
+####  
