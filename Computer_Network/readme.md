@@ -48,3 +48,29 @@ https://www.aliyundrive.com/s/SrgYA3HcUEQ
 点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 ```
 
+## 图解HTTP
+
+![](https://images-cn.ssl-images-amazon.cn/images/I/41rIT5V1tiL._AC_SY1000_.jpg)
+
+```
+图解HTTP by 上野宣 (z-lib.org).pdf
+https://www.aliyundrive.com/s/ZFY4BE8kuvj
+提取码: 0j2m
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+```
+
+
+
+## 网络是怎样连接的
+
+![](https://m.media-amazon.com/images/I/61FTClyirWL._AC_UF1000,1000_QL80_.jpg)
+
+```
+网络是怎样连接的 by 户根勤 (z-lib.org).pdf
+https://www.aliyundrive.com/s/vHUmuaNaQAw
+提取码: 3e2o
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+```
+
+
+
