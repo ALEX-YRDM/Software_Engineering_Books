@@ -7,6 +7,10 @@
 - 第六版中文网盘链接
 
 ```
+C Primer Plus（第6版）中文版 (（...[译]) (Z-Library).pdf
+https://www.aliyundrive.com/s/BJUGtbe31yQ
+提取码: 4m0h
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 ```
 
 ## C++ Primer Plus
@@ -16,6 +20,10 @@
 - 第六版中文链接
 
 ```
+C++ Primer Plus：中文版（第六版）...ata) (Z-Library).pdf
+https://www.aliyundrive.com/s/AZf8E8dKzvC
+提取码: b4e4
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 ```
 
 ## C++ Primer
