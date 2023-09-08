@@ -33,5 +33,9 @@ https://www.aliyundrive.com/s/AZf8E8dKzvC
 - 第五版中文
 
 ```
+C++ Primer 中文版（第 5 版） ( ...tc.) (Z-Library).pdf
+https://www.aliyundrive.com/s/gDzkkfqSZhE
+提取码: qa22
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 ```
 

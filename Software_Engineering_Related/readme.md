@@ -44,3 +44,11 @@ https://www.aliyundrive.com/s/NKHAiTgEvh8
 ## 软件工程 架构驱动的软件开发
 
 ![](https://m.media-amazon.com/images/I/51laUrMBRIL._AC_UF1000,1000_QL80_.jpg)
+
+```
+软件工程 架构驱动的软件开发 ([美]理查德 F...施密特) (Z-Library).pdf
+https://www.aliyundrive.com/s/3JbseHjWb3n
+提取码: r61a
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+```
+
