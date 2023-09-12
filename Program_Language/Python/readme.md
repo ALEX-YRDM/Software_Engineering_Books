@@ -24,3 +24,25 @@ https://www.aliyundrive.com/s/UMXjXqP3HVz
 点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 ```
 
+## Python网络爬虫权威指南
+
+![](https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/18026/22/15152/175244/5cada02fEef5cab34/4e17ad87f7164d29.jpg!q80.dpg)
+
+```
+Python网络爬虫权威指南（第 2 版） by 米切尔 (z-lib.org).pdf
+https://www.aliyundrive.com/s/A5SN3RQ9aCX
+提取码: f44y
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+```
+
+## Python神经网络编程
+
+![](https://cdn.ptpress.cn/pubcloud/bookImg/A20164045/2019070345C2EBB8.jpg)
+
+```
+Python神经网络编程 Make Your O...）,林赐 (z-lib.org).pdf
+https://www.aliyundrive.com/s/V7whS2QDKYE
+提取码: s23q
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+```
+

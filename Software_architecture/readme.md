@@ -7,5 +7,9 @@
 - 网盘链接
 
 ```
+程序员必读之软件架构 ([英] Simon Brown) (Z-Library).pdf
+https://www.aliyundrive.com/s/YspJnbpsLVC
+提取码: 9pa1
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 ```
 
