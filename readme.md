@@ -18,6 +18,19 @@
 - Principles_of_Computer_Composition 计算机组成
 - Compilation principle 编译原理
 - Math 数学
+  - calculus_微积分
+  - combinatorics_组合数学
+  - Discrete mathematics_离散数学
+  - Linear_algebra_线性代数
+  - numerical analysis_数值分析
+  - probability theory_概率论
+
+- machine_learning 机器学习
+- Deep_learning 深度学习
+- Data_mining 数据挖掘
+- Computer_vision 计算机视觉
+- Computer_graphics 计算机图形学
+- cryptography 密码学
 - Others  其他非常经典有名的书籍
 
 每个文件夹中的文档提供单本书的阿里云盘链接,由于阿里云盘每日分享存在上限(5个),因此缓慢更新.
